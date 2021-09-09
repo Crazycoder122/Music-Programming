@@ -1,0 +1,9 @@
+{
+    "Ionian":["W","W","H","W","W","W","H"],
+    "Dorian":["W","H","W","W","W","H","W"],
+    "Phrygian":["H","W","W","W","H","W","W"],
+    "Lydian":["W","W","W","H","W","W","H"],
+    "Mixolydian":["W","W","H","W","W","H","W"],
+    "Aeolian":["W","H","W","W","H","W","W"],
+    "Locrian":["H","W","W","H","W","W","W"]
+}
